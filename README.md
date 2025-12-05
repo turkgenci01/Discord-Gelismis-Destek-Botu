@@ -1,3 +1,19 @@
+
+---
+
+🎥
+ Tanıtım Videosu
+Botun nasıl çalıştığını görmek için videoyu izleyebilirsiniz:
+https://www.youtube.com/watch?v=ocouBBL0M-I&t=3s
+
+---
+
+💬
+ Destek & İletişim
+Soru, öneri veya desteğe ihtiyaç duyduğunuzda Discord sunucumuza katılabilirsiniz:
+https://discord.gg/muRQVnEg5b
+
+---
 # Discord.js v14 Gelişmiş Destek Sistemi Botu
 
 Modern ve kullanıcı dostu Discord destek botu. Kategori tabanlı ticket sistemi, geri bildirim özelliği ve otomatik log kayıtları ile donatılmıştır.
