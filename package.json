@@ -1,0 +1,27 @@
+{
+  "name": "discord-support-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 ile gelişmiş destek sistemi botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "support",
+    "ticket"
+  ],
+  "author": "Support Bot",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.1",
+    "@discordjs/voice": "^0.16.1",
+    "discord-api-types": "^0.38.17",
+    "discord.js": "^14.21.0",
+    "libsodium-wrappers": "^0.7.11",
+    "sodium-native": "^4.0.4"
+  }
+}
